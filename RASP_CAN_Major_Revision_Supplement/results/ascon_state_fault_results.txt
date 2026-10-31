@@ -1,0 +1,1 @@
+made=56106 accepted=47191 dropped=7856 needs_sync=1059 tamper_reject=508 replay_reject=236 epoch_sync_commits=11119 stale_delayed_sync_reject=10060 state_mismatch=0 unauthorized_accept=0

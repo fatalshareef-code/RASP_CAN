@@ -1,0 +1,10 @@
+frames 2104265 H(R) bits/frame 0.18660334260419856 H(R|R-1) 0.17759695333353565
+max per-ID H(R) 0.9995837402466524 IDs 194 IDs with H<0.01: 92
+k=100 q=0.95: protected-frame overhead vs adaptive 27.51%  overflow windows 2.36%  (windows 21145)
+k=100 q=0.99: protected-frame overhead vs adaptive 29.08%  overflow windows 0.62%  (windows 21145)
+k=100 q=1.0: protected-frame overhead vs adaptive 30.54%  overflow windows 0.24%  (windows 21145)
+uniform E64 overhead vs adaptive 68.71%
+theta=0.5: pinned IDs 9  overhead 11.29%  residual H(R) 0.1011 bits/frame
+theta=0.3: pinned IDs 9  overhead 11.29%  residual H(R) 0.1011 bits/frame
+theta=0.1: pinned IDs 13  overhead 18.95%  residual H(R) 0.0319 bits/frame
+theta=0.05: pinned IDs 15  overhead 24.93%  residual H(R) 0.0050 bits/frame
